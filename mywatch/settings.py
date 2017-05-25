@@ -25,7 +25,7 @@ SECRET_KEY = '^40lz6@bd3yp%8#xav&(v)x@^va4urfr43xbdua7xb)ad001^('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','http://18watch.azurewebsites.net']
+ALLOWED_HOSTS = ['localhost','http://mywatch18.azurewebsites.net']
 
 
 # Application definition
